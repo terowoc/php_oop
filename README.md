@@ -1,1 +1,1 @@
-## VideDarslik(ruscha): [YouTube](https://www.youtube.com/playlist?list=PLNsoXzIF7VhphFG-Htq9-PDKQTKgvinoc)
+## Video Course(russian): [YouTube](https://www.youtube.com/playlist?list=PLNsoXzIF7VhphFG-Htq9-PDKQTKgvinoc)
