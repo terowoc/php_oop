@@ -16,6 +16,21 @@ class BookProduct extends Product implements I3D
 	    $this->numPages = $numPages;
 	}
 
+	public function __toString()
+	{
+		return $this->getProductInfo();
+	}
+
+	public function __get($name)
+	{
+	    var_dump($name);
+	}
+
+	public function __set($name, $value)
+	{
+	    var_dump($name, $value);
+	}
+
 	public function test()
 	{
 		var_dump(self::TEST2);
