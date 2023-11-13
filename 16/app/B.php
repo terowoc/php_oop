@@ -4,7 +4,7 @@ namespace App;
 
 use App\Traits\Singleton;
 
-class A
+class B
 {
-	use Singleton;
+    use Singleton;
 }
